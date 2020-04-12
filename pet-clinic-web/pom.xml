@@ -3,13 +3,13 @@
     <parent>
         <artifactId>pet-clinic</artifactId>
         <groupId>com.codenexus</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.codenexus</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
