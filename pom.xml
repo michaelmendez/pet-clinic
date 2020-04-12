@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.codenexus</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>pet-clinic</name>
 	<description>Example of a Pet Clinic App</description>
 
@@ -23,7 +23,8 @@
 	</properties>
 	<scm>
 		<developerConnection>scm:git:git@github.com:michaelmendez/pet-clinic.git</developerConnection>
-	</scm>
+	  <tag>v0.0.1</tag>
+  </scm>
 	<build>
 		<plugins>
 			<plugin>
